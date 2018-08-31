@@ -8,38 +8,38 @@
             <html lang="en">
               <head>
                 <title>SDT1-MoM</title>
-                <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/themes/default/default.css" type="text/css" media="screen" />
-                <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/nivo-slider.css" type="text/css" media="screen" />
-	              <link rel="stylesheet" href="https://raw.githack.com/kd-n/SDT1-MoM/master/demo/style.css" type="text/css" media="screen" />
+                <link rel="stylesheet" href="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/themes/default/default.css" type="text/css" media="screen" />
+                <link rel="stylesheet" href="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/nivo-slider.css" type="text/css" media="screen" />
+	            <link rel="stylesheet" href="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/style.css" type="text/css" media="screen" />
               </head>
               <body>
                 <div id="wrapper">
                   <div class="slider-wrapper theme-default">          
                     <div id="slider" class="nivoSlider">
-                      <!--Members Template Start>
+                      <!--Members Template Sta
                       <!--
                       Blank: <img src="" data-thumb="" alt="" title=""/>
-                      Misai: <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> Month Year" title="Misai <br> Month Year"/>
-                      Mark:  <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" alt="Mark <br> Month Year" title="Mark <br> Month Year"/>
-                      Mina:  <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> Month Year" title="Mina <br> Month Year"/>
-                      Pau:   <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> Month Year" title="Pau <br> Month Year"/>
+                      Misai: <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> Month Year" title="Misai <br> Month Year"/>
+                      Mark:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" alt="Mark <br> Month Year" title="Mark <br> Month Year"/>
+                      Mina:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> Month Year" title="Mina <br> Month Year"/>
+                      Pau:   <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> Month Year" title="Pau <br> Month Year"/>
                       
                       -->
                       <!--Members Template End>
                       
                       <!--2018-->
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> July 2018" title="Misai <br> July 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> June 2018" title="Misai <br> June 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> May 2018" title="Pau <br> May 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> April 2018" title="Pau <br> April 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> March 2018" title="Misai <br> March 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> February 2018" title="Pau <br> February 2018"/>
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> January 2018" title="Mina <br> January 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> July 2018" title="Misai <br> July 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> June 2018" title="Misai <br> June 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> May 2018" title="Pau <br> May 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> April 2018" title="Pau <br> April 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> March 2018" title="Misai <br> March 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> February 2018" title="Pau <br> February 2018"/>
+                        <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> January 2018" title="Mina <br> January 2018"/>
                   </div>
                 </div>
               </div>
-              <script type="text/javascript" src="https://raw.githack.com/kd-n/SDT1-MoM/master/demo/scripts/jquery-1.9.0.min.js"></script>
-              <script type="text/javascript" src="https://raw.githack.com/kd-n/SDT1-MoM/master/jquery.nivo.slider.js"></script>
+              <script type="text/javascript" src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/scripts/jquery-1.9.0.min.js"></script>
+              <script type="text/javascript" src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/jquery.nivo.slider.js"></script>
               <script type="text/javascript">
                 $(window).on('load', function () {
                     $('#slider').nivoSlider({
