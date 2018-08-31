@@ -18,6 +18,7 @@
                     <div id="slider" class="nivoSlider">
                       <!--Members Template Start>
                       <!--
+                      Blank: <img src="" data-thumb="" alt="" title=""/>
                       Misai: <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> Month Year" title="Misai <br> Month Year"/>
                       Mark:  <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" alt="Mark <br> Month Year" title="Mark <br> Month Year"/>
                       Mina:  <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> Month Year" title="Mina <br> Month Year"/>
