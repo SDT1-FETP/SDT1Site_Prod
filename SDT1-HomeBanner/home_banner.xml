@@ -7,8 +7,8 @@
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
               <head>
     <title> Pure CSS3 Slider </title>
-    <link rel="stylesheet" href="style/main.css">
-    <link rel="stylesheet" href="style/slider-def.css">
+    <link rel="stylesheet" href="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/style/main.css">
+    <link rel="stylesheet" href="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/style/slider-def.css">
     <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
   </head>
   <body>
