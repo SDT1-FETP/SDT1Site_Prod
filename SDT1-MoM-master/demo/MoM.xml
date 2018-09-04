@@ -16,14 +16,14 @@
                 <div id="wrapper">
                   <div class="slider-wrapper theme-default">          
                     <div id="slider" class="nivoSlider">
-                      <!--Members Template Sta
+                      <!--Members Template Start -->
                       <!--
                       Blank: <img src="" data-thumb="" alt="" title=""/>
-                      Misai: <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai <br> Month Year" title="Misai <br> Month Year"/>
-                      Mark:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" alt="Mark <br> Month Year" title="Mark <br> Month Year"/>
-                      Mina:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina <br> Month Year" title="Mina <br> Month Year"/>
+                      Misai: <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Misai.jpg" alt="Misai Month Year" title="Misai <br> Month Year"/>
+                      Mark:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mark.JPG" alt="Mark Month Year" title="Mark <br> Month Year"/>
+                      Mina:  <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Mina.JPG" alt="Mina Month Year" title="Mina <br> Month Year"/>
                       Pau:   <img src="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" data-thumb="https://raw.githack.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Pau.JPG" alt="Pau <br> Month Year" title="Pau <br> Month Year"/>
-                      
+                      Jude:  <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Jude.JPG" data-thumb="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-MoM-master/demo/images/Jude.JPG" alt="Jude <br> Month Year" title="Jude <br> Month Year"/>
                       -->
                       <!--Members Template End>
                       
