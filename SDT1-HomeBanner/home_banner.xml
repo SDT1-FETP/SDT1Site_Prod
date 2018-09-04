@@ -20,6 +20,18 @@
           <div class="legend"></div>
           <div class="content">
             <div class="content-txt">
+              <h1>Welcome powz!</h1>
+              <h2>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</h2>
+            </div>
+          </div>
+          <div class="image">
+            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/1.jpg">
+          </div>
+        </div>
+        <div class="slider">
+          <div class="legend"></div>
+          <div class="content">
+            <div class="content-txt">
               <h1>Lorem ipsum dolor</h1>
               <h2>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</h2>
             </div>
@@ -37,7 +49,7 @@
             </div>
           </div>
           <div class="image">
-            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/2.jpg">
+            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/1.jpg">
           </div>
         </div>
         <div class="slider">
@@ -49,19 +61,7 @@
             </div>
           </div>
           <div class="image">
-            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/3.jpg">
-          </div>
-        </div>
-        <div class="slider">
-          <div class="legend"></div>
-          <div class="content">
-            <div class="content-txt">
-              <h1>Lorem ipsum dolor</h1>
-              <h2>Nam ultrices pellentesque facilisis. In semper tellus mollis nisl pulvinar vitae vulputate lorem consequat. Fusce odio tortor, pretium sit amet auctor ut, ultrices vel nibh.</h2>
-            </div>
-          </div>
-          <div class="image">
-            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/4.jpg">
+            <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-HomeBanner/img/1.jpg">
           </div>
         </div>
       </div>
