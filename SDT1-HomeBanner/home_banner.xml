@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
 <Module>
-   <ModulePrefs title="SDT1-MoM" />
+   <ModulePrefs title="SDT1-HomeBanner" />
     <Content type="html">
         <![CDATA[
           <!DOCTYPE HTML>
