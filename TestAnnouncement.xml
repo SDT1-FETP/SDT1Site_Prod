@@ -7,9 +7,20 @@
 <html>
 <body>
 
+<table>
+<tr>
+<td>
 <a href="https://sites.google.com/a/fetp.ph/test_sdt1/news" target="_blank">
   <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg?raw=true">
 </a>
+</td>
+<td>
+<a href="https://sites.google.com/a/fetp.ph/test_sdt1/news" target="_blank">
+  <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg?raw=true">
+</a>
+</td>
+</tr>
+</table>
 
 </body>
 </html>
