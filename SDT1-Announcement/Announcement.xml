@@ -9,6 +9,14 @@
                 <!-- Disable print & right-click behavior -->
                 <style type="text/css" media="print"> img { display: none; } </style>
                 <script> document.oncontextmenu = new Function('return false'); </script>
+                <script>
+                    $(document).ready(function () {
+                       // this will disable right-click on all images
+                       $("body").on("contextmenu",function(e){
+                           return false;
+                       });
+                    });
+		</script>
 	      </head>
               <body>
 	        <table cellspacing="30">
