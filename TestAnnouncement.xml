@@ -10,7 +10,7 @@
 <h2>Image as a Link</h2>
 <p>The image is a link. You can click on it.</p>
 
-<a href="https://sites.google.com/a/fetp.ph/test_sdt1/news">
+<a href="https://sites.google.com/a/fetp.ph/test_sdt1/news" target="_blank">
   <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg?raw=true">
 </a>
 
