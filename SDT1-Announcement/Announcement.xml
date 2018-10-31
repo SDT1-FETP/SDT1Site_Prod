@@ -6,16 +6,16 @@
           <!DOCTYPE html>
             <html>
               <body>
-	        <table>
+	        <table cellspacing="20">
 	          <tr>
                     <td>
                       <a href="https://sites.google.com/a/fetp.ph/test_sdt1/news" target="_blank">
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-Announcement/Pictures/news.jpg" align="middle">
+                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-Announcement/Pictures/news.jpg">
                       </a>
                     </td>
                     <td>
                       <a href="https://sites.google.com/a/fetp.ph/test_sdt1/events" target="_blank">
-                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-Announcement/Pictures/events.png" align="middle">
+                        <img src="https://raw.githubusercontent.com/SDT1-FETP/SDT1Site_Test/master/SDT1-Announcement/Pictures/events.png">
                       </a>
                     </td>
                   </tr>
