@@ -5,6 +5,11 @@
         <![CDATA[
           <!DOCTYPE html>
             <html>
+              <head>
+                <!-- Disable print & right-click behavior -->
+                <style type="text/css" media="print"> img { display: none; } </style>
+                <script> document.oncontextmenu = new Function('return false'); </script>
+	      </head>
               <body>
 	        <table cellspacing="30">
 	          <tr>
