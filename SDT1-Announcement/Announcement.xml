@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+   <ModulePrefs title="SDT1-HomeBanner" />
+     <Content type="html">
+        <![CDATA[
+          <!DOCTYPE html>
+            <html>
+              <body>
+	        <table style="width:100%">
+	          <tr>
+                    <td>
+                      <a href="https://sites.google.com/a/fetp.ph/test_sdt1/news" target="_blank">
+                        <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg?raw=true">
+                      </a>
+                    </td>
+                    <td>
+                      <a href="https://sites.google.com/a/fetp.ph/test_sdt1/events" target="_blank">
+                        <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg?raw=true">
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </body>
+            </html>
+          ]]>
+       </Content>
+    </Module>
