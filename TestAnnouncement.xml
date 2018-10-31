@@ -10,8 +10,8 @@
 <h2>Image as a Link</h2>
 <p>The image is a link. You can click on it.</p>
 
-<a href="default.asp">
-  <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg" style="width:42px;height:42px;border:0;">
+<a href="https://sites.google.com/a/fetp.ph/test_sdt1/news">
+  <img src="https://github.com/SDT1-FETP/SDT1Site_Test/blob/master/wew2.jpg">
 </a>
 
 <p>Add "border:0;" to prevent IE9 (and earlier) from displaying a border around the image.</p>
