@@ -1,2 +1,2 @@
 # SDT1Site_Test
-Repository for SDT1Site(Test version)
+Repository for SDT1Site gadgets
